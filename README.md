@@ -12,6 +12,7 @@ Random bug cause SeeAR app to become not available even after manually releasing
 
 iOS App Store Developer Apps link [itms-apps://itunes.apple.com/us/developer/samuel-lim/id1445649322]
 Apple-provided links that sometimes stop working... https://itunes.apple.com/us/developer/samuel-lim/id1445649322
+https://itunes.apple.com/au/developer/samuel-lim/id1445649322
 
 This repo: [iOS App campaign directory repo](https://github.com/lumaslim/lumaslim.github.io)
 
