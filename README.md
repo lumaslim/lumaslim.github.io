@@ -11,5 +11,5 @@
 
 
 
-
+This repo: [iOS App campaign directory repo](https://github.com/lumaslim/lumaslim.github.io)
 This website: [iOS App campaign directory](https://lumaslim.github.io)
