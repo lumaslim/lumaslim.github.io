@@ -1,4 +1,4 @@
-# [iOS App campaign directory](https://lumaslim.github.com) 
+# [iOS App campaign directory](https://lumaslim.github.io) 
 
 
 * [StickAR](https://itunes.apple.com/app/apple-store/id1445649323?pt=119468090&ct=testcampaign&mt=8)
